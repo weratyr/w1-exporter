@@ -1,3 +1,3 @@
-# Controme prometheus exporter 
+#Prometheus exporter 
 
 
